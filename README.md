@@ -14,10 +14,8 @@ This project is an e-commerce shopping cart application built using React, Redux
 
 ## Screenshots
 
-![React App - Google Chrome 15-06-2024 16_25_58](https://github.com/MitvikSihag/E-commerce-Shopping-Cart/assets/101905157/cdad0060-bde7-42ae-a3f9-3773f03bd1de)
 ![React App - Google Chrome 15-06-2024 16_25_51](https://github.com/MitvikSihag/E-commerce-Shopping-Cart/assets/101905157/a094d0e8-28be-4b92-a7bd-3d60accf05f8)
-![React App - Google Chrome 15-06-2024 16_25_36](https://github.com/MitvikSihag/E-commerce-Shopping-Cart/assets/101905157/bd1d47bc-b0f5-4239-b63e-45d6d2522da0)
-
+![React App - Google Chrome 15-06-2024 16_25_58](https://github.com/MitvikSihag/E-commerce-Shopping-Cart/assets/101905157/cdad0060-bde7-42ae-a3f9-3773f03bd1de)
 
 ## Installation
 
