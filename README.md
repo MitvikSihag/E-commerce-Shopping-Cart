@@ -19,7 +19,7 @@ This project is an e-commerce shopping cart application built using React, Redux
 
 ## Installation
 
-- git clone https://github.com/your-username/e-commerce-app.git
+- git clone (https://github.com/MitvikSihag/E-commerce-Shopping-Cart.git)
 - cd e-commerce-app
 - npm install
 - npm start
